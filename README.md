@@ -58,7 +58,7 @@ Create two web pages say Index.html and Project.html
 |3|Pravitha|-|
 |4|Adil|-|
 |5|Greeshma|-|
-|6|Adithya|-|
+|6|Adithya|https://github.com/adithyanandakumar/Portfolio|
 
 |Net Weavers|Name|Repo Address|  
 |-----------|----|------------|
