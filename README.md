@@ -29,7 +29,7 @@ Create two web pages say Index.html and Project.html
 |------------|----|------------|
 |1|Adnan|https://github.com/adnane777/Task1html|
 |2|Anuroopa|https://github.com/Anuroopaaa/portfolio-html|
-|3|Akmal|-|
+|3|Akmal|https://github.com/Akmal-github/HTML-Task1|
 |4|Hiba|-|
 |5|Dana|-|
 |6|Sreeram|-|
