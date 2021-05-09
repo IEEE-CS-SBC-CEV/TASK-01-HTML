@@ -27,7 +27,7 @@ Create two web pages say Index.html and Project.html
 
 |Server Monks|Name|Repo Address|  
 |------------|----|------------|
-|1|Adnan|-|
+|1|Adnan|https://github.com/adnane777/Task1html|
 |2|Anuroopa|-|
 |3|Akmal|-|
 |4|Hiba|-|
