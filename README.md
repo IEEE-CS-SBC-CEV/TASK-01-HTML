@@ -62,7 +62,7 @@ Create two web pages say Index.html and Project.html
 
 |Net Weavers|Name|Repo Address|  
 |-----------|----|------------|
-|1|Nandu krishna|-|
+|1|Nandu krishna|https://github.com/Nandukrishnat/Html-Task-01|
 |2|Arjun|-|
 |3|Lisana|-|
 |4|Gayathri|-|
