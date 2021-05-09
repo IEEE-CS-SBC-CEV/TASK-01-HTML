@@ -40,7 +40,7 @@ Create two web pages say Index.html and Project.html
 |2|Hafis|https://github.com/hafiscp/Task-2-HTML|
 |3|Prathul|-|
 |4|Swathy|-|
-|5|Yazid|-|
+|5|Yazid|https://github.com/yazidanp/html-task01|
 
 |Webzone|Name|Repo Address|  
 |-------|----|------------|
