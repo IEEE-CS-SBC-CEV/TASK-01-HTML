@@ -36,7 +36,7 @@ Create two web pages say Index.html and Project.html
 
 |Data Pirates|Name|Repo Address|  
 |------------|----|------------|
-|1|Najiya|-|
+|1|Najiya|https://github.com/fathimanajiya/TASK-1|
 |2|Hafis|-|
 |3|Prathul|-|
 |4|Swathy|-|
