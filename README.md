@@ -55,7 +55,7 @@ Create two web pages say Index.html and Project.html
 |----------|----|------------|
 |1|Hadiq|-|
 |2|Kiran|https://github.com/kirankrish792/Html_glintlit|
-|3|Pravitha|-|
+|3|Pravitha|https://github.com/Pravitha007/html_gl|
 |4|Adil|-|
 |5|Greeshma|-|
 |6|Adithya|-|
