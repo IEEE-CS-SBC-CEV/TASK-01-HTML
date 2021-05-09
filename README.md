@@ -45,8 +45,7 @@ Create two web pages say Index.html and Project.html
 |Webzone|Name|Repo Address|  
 |-------|----|------------|
 |1|Anupriya|-|
-|2|Aleena Reji|-|
-|3|Avanthika|-|
+|2|Aleena Reji|https://github.com/aleenareji5/Task-html.git|
 |4|Atif|-|
 |5|Yadunath|-|
 |6|Adnan|-|
