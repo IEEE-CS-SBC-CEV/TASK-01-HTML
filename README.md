@@ -22,7 +22,7 @@ Create two web pages say Index.html and Project.html
 |1|Shahla k|-|
 |2|Akshay M|-|
 |3|Aswin V|https://github.com/ASWIN732012/aswinv|
-|4|Ashitha N|-|
+|4|Ashitha N|https://github.com/6-jan/ashithan|
 |5|Nihad C V|-|
 
 |Server Monks|Name|Repo Address|  
