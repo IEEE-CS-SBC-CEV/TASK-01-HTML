@@ -46,7 +46,7 @@ Create two web pages say Index.html and Project.html
 |-------|----|------------|
 |1|Anupriya|https://github.com/AnupriyaCH/Html.git|
 |2|Aleena Reji|https://github.com/aleenareji5/Task-html.git|
-|3|Avanthika|-|
+|3|Avanthika|https://github.com/Avanthika2811/html-001|
 |4|Atif|https://github.com/atifpv/html-practice|
 |5|Yadunath|-|
 |6|Adnan|-|
