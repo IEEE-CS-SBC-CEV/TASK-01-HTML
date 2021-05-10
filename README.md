@@ -21,7 +21,7 @@ Create two web pages say Index.html and Project.html
 |----------|----|------------|
 |1|Shahla k|-|
 |2|Akshay M|-|
-|3|Aswin V|-|
+|3|Aswin V|https://github.com/ASWIN732012/aswinv|
 |4|Ashitha N|-|
 |5|Nihad C V|-|
 
