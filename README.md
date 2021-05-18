@@ -49,7 +49,7 @@ Create two web pages say Index.html and Project.html
 |3|Avanthika|https://github.com/Avanthika2811/html-001|
 |4|Atif|https://github.com/atifpv/html-practice|
 |5|Yadunath|-|
-|6|Adnan|-|
+|6|Adnan|https://github.com/adnanzabdi/TASK-01-HTML|
 
 |Query Crew|Name|Repo Address|  
 |----------|----|------------|
